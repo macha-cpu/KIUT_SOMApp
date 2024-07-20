@@ -1,0 +1,9 @@
+
+Commands
+Build Android APK
+=> eas build -p android --profile preview
+
+
+Plugins
+
+https://github.com/oblador/react-native-progress
